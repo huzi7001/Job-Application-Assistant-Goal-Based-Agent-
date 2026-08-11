@@ -14,7 +14,7 @@ A simple **Goal-Based AI Agent** built with **Streamlit**, **LangChain**, and **
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 - **Python**
 - **Streamlit**
 - **LangChain**
