@@ -1,7 +1,7 @@
 # 🧠 Job Application Assistant   
 A simple **Goal-Based AI Agent** built with **Streamlit**, **LangChain**, and **Google Gemini** that helps collect job application details such as **name, email, and skills**, and can also extract information from an uploaded **resume (PDF/TXT)**.
 
----
+--- 
  
 ## ✨ Features
 - Collects **name**, **email**, and **skills** through chat
